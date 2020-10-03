@@ -1,2 +1,2 @@
 # Code-Propostional-Logic
-PINEDA,Matthew Alfred L
+PINEDA,Matthew Alfred
